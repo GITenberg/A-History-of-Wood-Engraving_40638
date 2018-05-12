@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4319
     wikipedia: http://en.wikipedia.org/wiki/George_Edward_Woodberry
 description: Bibliographie pp. 211-219; Index pp. 218-221.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40638#A-History-of-Wood-Engraving
 gutenberg_issued: '2012-09-01'
 gutenberg_type: Text
 identifiers:
